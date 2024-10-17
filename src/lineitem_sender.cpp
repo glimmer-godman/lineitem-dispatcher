@@ -1,6 +1,7 @@
-#include "lineitem_sender.h"
+#include "lineitem/lineitem_sender.h"
 
-
-bool LinetiemSender::init() {
+namespace glimmer {
+bool LineitemSender::init() {
     
+}
 }
