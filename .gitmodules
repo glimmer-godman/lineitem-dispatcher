@@ -4,3 +4,6 @@
 [submodule "third-party/googletest"]
 	path = third-party/googletest
 	url = git@github.com:google/googletest.git
+[submodule "third-party/gflags"]
+	path = third-party/gflags
+	url = git@github.com:glimmer-godman/gflags.git
